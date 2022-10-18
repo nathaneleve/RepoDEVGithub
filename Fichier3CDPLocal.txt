@@ -1,2 +1,2 @@
 Fichier3 : Texte 1 CDP local
-Fichier3 : Texte 2 CDP local
+Fichier3 : Texte 2 DEV GITHUB
